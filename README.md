@@ -1,7 +1,7 @@
 # Simulador de Memoria Caché Asociativa por Conjuntos de 2 Vías FIFO Write Back
 
-## Sebastián Dow Valenzuela
-## Carlos Andrés Orduz Guacaneme
+### Sebastián Dow Valenzuela
+### Carlos Andrés Orduz Guacaneme
 
 Este es un simulador en Python de una memoria caché asociativa por conjuntos de 2 vías con política de reemplazo FIFO y escritura diferida (write back). El objetivo de este proyecto es proporcionar una implementación funcional de una memoria caché que pueda ser utilizada para analizar y evaluar su rendimiento en diferentes escenarios.
 
