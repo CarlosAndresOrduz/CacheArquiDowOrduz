@@ -8,7 +8,7 @@
 ### Conjuntos: 16
 ### Vías asociativas: 2
 ### Política de reemplazo: FIFO (el bloque más antiguo en la vía seleccionada es reemplazado)
-### Política de escritura: Write Back (los datos se escriben en la cache y se marcan como "modificados", pero no se escriben en la memoria ### principal hasta que el bloque sea reemplazado)
+### Política de escritura: Write Back (los datos se escriben en la cache y se marcan como "modificados", pero no se escriben en la memoria principal hasta que el bloque sea reemplazado)
 
 ## Maquina De Estados
 
