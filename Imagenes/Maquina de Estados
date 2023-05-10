@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T23:43:47.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GzXyF2Yy9JXS2tNfyZvr" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T23:54:21.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Q6TrjMSUspBnJWa_kvr-" version="21.2.9" type="github">
   <diagram name="Página-1" id="w0HPNflMd7kkE1LZWvyS">
-    <mxGraphModel dx="1760" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,6 +216,21 @@
               <mxPoint x="644" y="698" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ROV4K4BF3loK0GY3ZIX7-101" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROV4K4BF3loK0GY3ZIX7-85" target="ROV4K4BF3loK0GY3ZIX7-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="900" as="sourcePoint" />
+            <mxPoint x="690" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="604" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ROV4K4BF3loK0GY3ZIX7-103" value="Bit sucio = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ROV4K4BF3loK0GY3ZIX7-104" value="Bit sucio = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="958" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
