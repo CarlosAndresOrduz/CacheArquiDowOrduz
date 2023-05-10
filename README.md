@@ -1,5 +1,8 @@
 # Simulador de Memoria Caché Asociativa por Conjuntos de 2 Vías FIFO Write Back
 
+## Sebastián Dow Valenzuela
+## Carlos Andrés Orduz Guacaneme
+
 Este es un simulador en Python de una memoria caché asociativa por conjuntos de 2 vías con política de reemplazo FIFO y escritura diferida (write back). El objetivo de este proyecto es proporcionar una implementación funcional de una memoria caché que pueda ser utilizada para analizar y evaluar su rendimiento en diferentes escenarios.
 
 ## Arquitectura del sistema de caché
@@ -77,6 +80,8 @@ Asegúrate de tener los siguientes requisitos previos antes de ejecutar el simul
 3. Ejecuta el siguiente comando para iniciar el simulador: python cache_simulator.py
 
 4. Sigue las instrucciones en pantalla para configurar los parámetros de la memoria caché y realizar las operaciones de lectura y escritura.
+
+*La entrada del programa corresponde a los datos almacenados en una meroria RAM y sus respectivas direcciones como paraece en el modelo de testram.txt* 
 
 ## Configuración de la memoria caché
 
